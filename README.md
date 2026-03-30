@@ -48,10 +48,6 @@
 
 ## Badges
 [![@Devrajsinh-Gohil's Holopin board](https://holopin.io/api/user/board?user=devrajsinh03)](https://holopin.io/@devrajsinh03)
-
-## ❤ Views and Followers
-[![](https://visitcount.itsvg.in/api?id=DevrG03&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://github.com/Devrajsinh-Gohil?tab=followers"><img src="https://img.shields.io/github/followers/Devrajsinh-Gohil?label=Followers&style=social" alt="GitHub Badge"></a>
 <!---
 Devrajsinh-Gohil/Devrajsinh-Gohil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
