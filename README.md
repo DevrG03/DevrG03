@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&pause=1200&color=94A3B8&center=true&vCenter=true&width=680&height=40&lines=AI+Engineer+—+building+things+that+think.;M.Tech+ICT+%40+Dhirubhai+Ambani+University.;GATE+DA+2024%3A+AIR+1%2C519+%7C+SIH+2024+National+Finalist.;Shipped+AI+to+prod+%40+JSW+Steel.;Open+to+collabs+%26+cool+problems." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&pause=1200&color=94A3B8&center=true&vCenter=true&width=680&height=40&lines=AI+Engineer+%E2%80%94+building+things+that+think.;M.Tech+ICT+%40+Dhirubhai+Ambani+University.;GATE+DA+2024%3A+AIR+1%2C519+%7C+SIH+2024+National+Finalist.;Shipped+AI+to+prod+%40+JSW+Steel.;Open+to+collabs+%26+cool+problems." />
 </p>
 
 <br>
