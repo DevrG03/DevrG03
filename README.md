@@ -1,54 +1,152 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
-<span align="center">
-    <h1 align="center">✩ Devrajsinh-Gohil ✩</h1>
-</span>
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+Profile%2C;Hope+you+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=1&pause=99999&color=A855F7&center=true&vCenter=true&repeat=false&width=820&height=90&lines=devrajsinh." />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&pause=1200&color=94A3B8&center=true&vCenter=true&width=680&height=40&lines=AI+Engineer+—+building+things+that+think.;M.Tech+ICT+%40+Dhirubhai+Ambani+University.;GATE+DA+2024%3A+AIR+1%2C519+%7C+SIH+2024+National+Finalist.;Shipped+AI+to+prod+%40+JSW+Steel.;Open+to+collabs+%26+cool+problems." />
+</p>
+
 <br>
-   
+
+<p align="center">
+  <a href="https://linkedin.com/in/devrajsinh">
+    <img src="https://img.shields.io/badge/linkedin-0D0D0D?style=flat-square&logo=linkedin&logoColor=A855F7"/>
+  </a>&ensp;
+  <a href="https://www.devrajsinhgohil.tech">
+    <img src="https://img.shields.io/badge/portfolio-0D0D0D?style=flat-square&logo=safari&logoColor=F59E0B"/>
+  </a>&ensp;
+  <a href="https://twitter.com/DevrajsinhGohi5">
+    <img src="https://img.shields.io/badge/twitter-0D0D0D?style=flat-square&logo=x&logoColor=94A3B8"/>
+  </a>&ensp;
+  <a href="https://instagram.com/devrajsinhg0hil">
+    <img src="https://img.shields.io/badge/instagram-0D0D0D?style=flat-square&logo=instagram&logoColor=F59E0B"/>
+  </a>&ensp;
+  <img src="https://komarev.com/ghpvc/?username=DevrG03&color=A855F7&style=flat-square&label=views"/>
+</p>
+
 <br>
 <br>
 
-        
+---
+
+```bash
+$ cat about.me
+```
+
+```
+╭────────────────────────────────────────────────────────────────╮
+│                                                                │
+│   name    Devrajsinh Gohil                                     │
+│   role    AI Engineer  ·  Full-Stack Developer                 │
+│   study   M.Tech ICT @ Dhirubhai Ambani University  [8.75]     │
+│   work    AI Intern @ JSW Steel  ·  Intern @ Tark Tech         │
+│   built   LLM agents  ·  AI SaaS  ·  Agentic systems           │
+│   creds   GATE DA AIR 1,519  ·  SIH 2024 Finalist              │
+│   badge   Microsoft Learn Student Ambassador (Beta)            │
+│                                                                │
+╰────────────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+---
+
+## `// what I shipped`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**HigherAI** &nbsp;`—` Talent Matching Platform
+
+```yaml
+stack  : LLM · NLP · Python · Azure · Docker
+client : Recruitment  
+status : ✓ shipped to production
+impact : −50% recruiter shortlisting effort
+```
+
+AI recruitment engine that matches candidates to job roles via LLM-based profile scoring. Containerized Streamlit analytics dashboard with automated hiring insights.
+
+</td>
+<td width="50%" valign="top">
+
+**Smart DPR Manager** &nbsp;`—` Construction AI Agent
+
+```yaml
+stack  : AI Agent · STT · MCP · FastAPI · GCP
+client : Construction / Site Ops
+status : ✓ shipped to production
+impact : −60% manual reporting workload
+```
+
+Converts natural-language site updates into structured daily progress reports, synced live to Google Sheets. FastAPI + LLM parsing agents + OAuth React frontend.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## `// stack`
+
+```python
+LANGUAGES  =  ["Python", "C++", "JavaScript", "SQL", "Java"]
+
+AI_ML      =  ["LLMs", "LangChain", "NLP", "Deep Learning",
+               "Scikit-learn", "HuggingFace"]
+
+BACKEND    =  ["FastAPI", "Flask", "Node.js", "Express"]
+
+FRONTEND   =  ["React.js", "Next.js", "Tailwind CSS", "Bootstrap"]
+
+CLOUD      =  ["Azure", "GCP", "Docker", "Firebase"]
+
+DATABASES  =  ["MongoDB", "MySQL", "PosgreSQL"]
+
+TOOLS      =  ["Git", "VS Code", "Linux", "Postman"]
+```
+
+<br>
+
+---
+
+## `// benchmarks`
+
+```
+  GATE DA 2024      →   AIR 1,519                    (national-level CS exam)
+  SIH 2024          →   National Finalist             (Govt. of India)
+  Industry          →   AI Intern @ JSW Steel         (Jan – Apr 2025)
+  M.Tech CPI        →   8.75 / 10                    (Dhirubhai Ambani Univ.)
+  B.E. CPI          →   8.20 / 10                    (GECR / GTU)
+  MLSA              →   Beta Ambassador               (Microsoft, 2022 – 2025)
+```
+
+<br>
+
+---
+
 <div align="center">
-    
-<img src = "https://raw.githubusercontent.com/Devrajsinh-Gohil/Devrajsinh-Gohil/9b56cbb21d32c132f047351b615ac99a99249be3/gitartwork.svg">
-    
+
+`open to research collabs · AI projects · interesting problems`
+
+<br>
+
+<a href="https://linkedin.com/in/devrajsinh">
+  <img src="https://img.shields.io/badge/let's_connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&ensp;
+<a href="https://www.devrajsinhgohil.tech">
+  <img src="https://img.shields.io/badge/see_my_work-F59E0B?style=for-the-badge&logo=safari&logoColor=black"/>
+</a>
+
 </div>
-## About Me
 
+<br>
+<br>
 
-- 👋 Hi, I’m <b>@Devrajsinh-Gohil</b>
-- 👀 I’m interested in each and every type of technology and I love to code.
-- 🌱 Currently learning Computer Engineering as a freshman in a Government Engineering College.
-- 💞️ Looking forward to collaborate on any interesting project in the field of computer technology.
-- 🧑‍💻My Spotfolio: https://www.devrajsinhgohil.tech
-- 📫 Let's Connect:<br>  
-  <a href="https://www.linkedin.com/in/devrajsinh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.instagram.com/devrajsinhg0hil/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-  <a href="https://twitter.com/DevrajsinhGohi5" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-
-## Github Stats
-![](https://komarev.com/ghpvc/?username=DevrG03)
-
-[![trophy](https://gh-trophy.cdnsoft.net/?username=DevrG03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevrG03&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevrG03&theme=dracula)
-
- <br/>
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-## Badges
-[![@Devrajsinh-Gohil's Holopin board](https://holopin.io/api/user/board?user=devrajsinh03)](https://holopin.io/@devrajsinh03)
-<!---
-Devrajsinh-Gohil/Devrajsinh-Gohil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0D0D0D,100:2D1B69&height=80&section=footer&reversal=true"/>
