@@ -11,19 +11,11 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/devrajsinh">
-    <img src="https://img.shields.io/badge/linkedin-0D0D0D?style=flat-square&logo=linkedin&logoColor=A855F7"/>
-  </a>&ensp;
-  <a href="https://www.devrajsinhgohil.tech">
-    <img src="https://img.shields.io/badge/portfolio-0D0D0D?style=flat-square&logo=safari&logoColor=F59E0B"/>
-  </a>&ensp;
-  <a href="https://twitter.com/DevrajsinhGohi5">
-    <img src="https://img.shields.io/badge/twitter-0D0D0D?style=flat-square&logo=x&logoColor=94A3B8"/>
-  </a>&ensp;
-  <a href="https://instagram.com/devrajsinhg0hil">
-    <img src="https://img.shields.io/badge/instagram-0D0D0D?style=flat-square&logo=instagram&logoColor=F59E0B"/>
-  </a>&ensp;
-  <img src="https://komarev.com/ghpvc/?username=DevrG03&color=A855F7&style=flat-square&label=views"/>
+  <a href="https://linkedin.com/in/devrajsinh"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://spotfolio.vercel.app"><img src="https://skillicons.dev/icons?i=nextjs" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/DevrajsinhGohi5"><img src="https://skillicons.dev/icons?i=twitter" alt="X / Twitter" /></a>
 </p>
 
 <br>
@@ -118,12 +110,12 @@ TOOLS      =  ["Git", "VS Code", "Linux", "Postman"]
 ## `// benchmarks`
 
 ```
-  GATE DA 2024      →   AIR 1,519                    (national-level CS exam)
-  SIH 2024          →   National Finalist             (Govt. of India)
-  Industry          →   AI Intern @ JSW Steel         (Jan – Apr 2025)
-  M.Tech CPI        →   8.75 / 10                    (Dhirubhai Ambani Univ.)
-  B.E. CPI          →   8.20 / 10                    (GECR / GTU)
-  MLSA              →   Beta Ambassador               (Microsoft, 2022 – 2025)
+  GATE DA 2024      →   AIR 1,519                      (national-level CS exam)
+  SIH 2024          →   National Finalist              (Govt. of India)
+  Industry          →   AI Intern @ JSW Steel          (Jan – Apr 2025)
+  M.Tech CPI        →   8.75 / 10                      (Dhirubhai Ambani Univ.)
+  B.E. CPI          →   8.20 / 10                      (GECR / GTU)
+  MLSA              →   Beta Ambassador                (Microsoft, 2022 – 2025)
 ```
 
 <br>
@@ -136,13 +128,9 @@ TOOLS      =  ["Git", "VS Code", "Linux", "Postman"]
 
 <br>
 
-<a href="https://linkedin.com/in/devrajsinh">
-  <img src="https://img.shields.io/badge/let's_connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/devrajsinh"><img src="https://img.shields.io/badge/let's_connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &ensp;
-<a href="https://www.devrajsinhgohil.tech">
-  <img src="https://img.shields.io/badge/see_my_work-F59E0B?style=for-the-badge&logo=safari&logoColor=black"/>
-</a>
+<a href="https://www.devrajsinhgohil.tech"><img src="https://img.shields.io/badge/see_my_work-F59E0B?style=for-the-badge&logo=safari&logoColor=black"/></a>
 
 </div>
 
