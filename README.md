@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/devrajsinh"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://spotfolio.vercel.app"><img src="https://skillicons.dev/icons?i=nextjs" alt="Portfolio" /></a>
+  <a href="https://devrajsinh.vercel.app"><img src="https://skillicons.dev/icons?i=nextjs" alt="Portfolio" /></a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/DevrajsinhGohi5"><img src="https://skillicons.dev/icons?i=twitter" alt="X / Twitter" /></a>
 </p>
